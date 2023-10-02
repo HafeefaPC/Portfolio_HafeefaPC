@@ -1,16 +1,16 @@
 {
     "basic_info": {
-      "name": "Davina Griss",
-      "titles": [ "Front-end Developer", "Senior Data Engineer", "Dev Team lead", "Mobile App Developer" ],
+      "name": "HAFEEFA PC",
+      "titles": [ "Front-end Developer" ],
       "social": [
         {
           "name": "github",
-          "url": "https://github.com",
+          "url": "https://github.com/HafeefaPC",
           "class": "fab fa-github"
         },
         {
           "name": "instagram",
-          "url": "https://www.instagram.com",
+          "url": "https://www.instagram.com/_haf_efa_/",
           "class": "fab fa-instagram"
         }
       ],
@@ -29,7 +29,7 @@
           "level": "95"
         },
         {
-          "name": "Angular",
+          "name": "Angu",
           "class": "devicon-angularjs-plain",
           "level": "80"
         },
