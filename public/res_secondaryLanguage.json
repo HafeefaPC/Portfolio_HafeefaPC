@@ -6,7 +6,7 @@
         "about": "O mnie",
         "projects": "Projekty",
         "skills": "Umiejętności",
-        "experience": "Doświadczenie"
+        "education": "Doświadczenie"
       }
     },
     "projects": [
@@ -79,7 +79,7 @@
         ]
       }
     ],
-    "experience": [
+    "education": [
       {
         "company": "DefOpenSource",
         "title": "Front-End Developer",
